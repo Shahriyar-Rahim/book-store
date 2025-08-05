@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.section-container{
+    @apply max-w-7xl container mx-auto px-4
+}
