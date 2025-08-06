@@ -169,5 +169,3 @@ app.listen(port, () => {
 })
 
 
-// admin
-// qSRbrPUPuRyI7eV1
